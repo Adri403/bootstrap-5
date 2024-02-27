@@ -13,3 +13,14 @@
 .roxo{
     background-color: #9353FF;
 }
+.div-novidades {
+    width: 325px;
+}
+
+@media(min-width: 768px) {
+
+    .div-novidades {
+        width: 696px;
+    }
+
+}
